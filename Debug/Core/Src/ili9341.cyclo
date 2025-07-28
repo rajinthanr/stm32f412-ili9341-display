@@ -1,0 +1,21 @@
+../Core/Src/ili9341.cpp:68:6:void ILI9341_Init()	1
+../Core/Src/ili9341.cpp:190:6:void ILI9341_SetWindow(uint16_t, uint16_t, uint16_t, uint16_t)	1
+../Core/Src/ili9341.cpp:207:6:void ILI9341_WritePixel(uint16_t, uint16_t, uint16_t)	2
+../Core/Src/ili9341.cpp:222:6:void ILI9341_FillScreen(uint16_t)	4
+../Core/Src/ili9341.cpp:251:6:void ILI9341_DrawCircle(uint16_t, uint16_t, uint16_t, uint16_t)	6
+../Core/Src/ili9341.cpp:265:13:void ConvHL(uint8_t*, int32_t)	2
+../Core/Src/ili9341.cpp:280:6:void ILI9341_DrawBitmap(uint16_t, uint16_t, uint8_t*)	1
+../Core/Src/ili9341.cpp:301:6:void ILI9341_EndOfDrawBitmap()	1
+../Core/Src/ili9341.cpp:310:6:void ILI9341_Reset()	1
+../Core/Src/ili9341.cpp:320:6:void ILI9341_SoftReset()	2
+../Core/Src/ili9341.cpp:331:6:void LCD_WR_REG(uint8_t)	2
+../Core/Src/ili9341.cpp:341:13:void LCD_WR_DATA(uint8_t)	2
+../Core/Src/ili9341.cpp:351:6:void LCD_IO_WriteMultipleData(uint8_t*, uint32_t)	2
+../Core/Src/ili9341.cpp:370:13:void LCD_direction(LCD_Horizontal_t)	5
+../Core/Src/ili9341.cpp:392:13:void RESET_L()	1
+../Core/Src/ili9341.cpp:397:13:void RESET_H()	1
+../Core/Src/ili9341.cpp:402:13:void CS_L()	1
+../Core/Src/ili9341.cpp:407:13:void CS_H()	1
+../Core/Src/ili9341.cpp:412:13:void DC_L()	1
+../Core/Src/ili9341.cpp:417:13:void DC_H()	1
+../Core/Src/ili9341.cpp:422:13:void LED_H()	1
